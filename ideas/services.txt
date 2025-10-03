@@ -1,0 +1,53 @@
+Vaiable in demand services for starting out: 
+
+1. Managed IT support and IT helpdesk:
+
+Almost every business needs some sort of basic IT department
+Costs are low, we only need to provide employees with simple training and a company laptop.
+Monthly retainers draw roughly $175 per user for basic plans unlimited plans could cost more.
+
+2. Cybersecurity Basics for Small - Medium sized businesses. 
+
+Emphasize that security should be the companies number one concern when it comes to their data.
+offer things like: 
+
+Security Awareness Training - videos training staff on how to identify and block scams and spam emails.
+Anti-virus and EDR setup - can be installed on company computers for peace of mind and EDR systems can be set up on medium sized companies switches.
+Two factor authentication setups or MFA Rollout - ensures that the company logins are secured and backed by user authentication. 
+
+3. Cloud Migrations (microsoft 365 setup / google workspace setup)
+
+Migrate emails to office 365 or google.
+set up microsoft teams for companies. 
+setup google drive to store company data. 
+setup AWS migrations for museums using Omeka and help them customize the way they want their information to be stored.
+setup sql databses for comapny systems. 
+
+4. Website hosting, Website stores and application developments snd email hosting.
+
+Build basic websites for companies and upcharge them on hosting using AWS. 
+Setup stores for company websites allowing them to sell their merchandise and you take a small % of every sale.
+develop SMALL applications for companies to sell their merchansise. 
+
+5. Network setups and optimization. 
+
+Companies need switches to be configured and networks setup for large computers and office work. 
+make it a point that a slow/unreliable network is costing them money and that by solving the problem they can make more money.
+Install switches, run cables, routers, phones, and access points.
+
+6. Security camera setups. 
+
+companies need a reliable, secure, online security camera systems we can offer services to set them up, run cables and offer hosting plans
+upcharging an amazon hosting service. 
+
+7. Data backup and recovery
+
+Companies may need large amounts of data backed up on a regular basis or kept secure in versions. In addition, 
+they may have had a system problem that caused them to lose data offering recovery services could 
+help them save time and money. 
+
+8. Web application design
+
+create web applications for companies to help them create and handle services for their clients
+argue that a web app could help them make money as they can sell it to others and offer hosting at 
+a markup. Scope of the project must be small however in the start. 
